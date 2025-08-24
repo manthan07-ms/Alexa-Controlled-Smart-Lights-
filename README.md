@@ -37,3 +37,5 @@ With just a simple voice command like:
 ## 🙌 Credits
 Developed by **Manthan Sabalpara**  
 Powered by **ESP8266 + Alexa + Sinric Pro**
+
+📹 [Watch Demo Video](https://drive.google.com/file/d/1wacDKEy1aaoTYT0u9_-Vx_dg53cL_zqr/view?usp=drivesdk)
