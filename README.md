@@ -32,9 +32,6 @@ With just a simple voice command like:
 
 ---
 
-## 🎥 Demo (optional)
-👉 *(Add images/GIFs of your setup or Alexa in action here)*  
-
 ---
 
 ## 🙌 Credits
